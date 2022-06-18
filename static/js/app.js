@@ -76,6 +76,3 @@ function updateFilters() {
 
   // Build the table when the page loads
   buildTable(tableData);
-© 2022 GitHub, Inc.
-Terms
-Priva
