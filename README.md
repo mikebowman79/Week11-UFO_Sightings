@@ -22,7 +22,7 @@ c. Date/State: Filter by Date and State
 d. Date/Shape: Filter by Date and Shape
 ![Date Shape](https://user-images.githubusercontent.com/101996041/175121199-83a63291-d20c-4894-a119-f8361bccf6d3.png)
 
-Multiple Filters: Multiple fields can be searched simultaneously. In the below image, the search fields selected are “City” for country and “Triangle” for shape. This populates a filtered list of all sightings of a triangle shaped UFO in the US.
+Multiple Filters: Multiple fields can be searched simultaneously. In the below image, the search fields selected are “City” for country and “Triangle” for shape. This populates a filtered list of all sightings of a triangle shaped UFO in the San Diego area.
 ![image](https://user-images.githubusercontent.com/101996041/175121676-ee46ba81-8ec0-4e17-b358-1361061d6f86.png)
 
 
@@ -31,6 +31,8 @@ Drawbacks of the webpage are the following:
 
 a. Submit Button: There is no "Submit" button to enter values for each of the filters
 b. Clear Button: A "Clear" button needs to be introduced so prior results can be deleted for the next filtered attempt. 
+c, Case Sensitivity: The text entered into the "Search" boxes must match exactly as it is shown on the displayed results. It would be easier
+for a novice user to be able to enter values that are not case sensitive.
 
 
 Additional Image: Narrative at top of page
