@@ -1,6 +1,5 @@
 # Week11-UFO_Sightings Overview
 
-UFOs
 Overview
 
 The purpose of the UFO Sightings Project is to build a webpage containing data regarding UFO sightings; the data encompassed the year 2010 of sightings throughout the US from as far west as California and as far east as New York and New Jersey. Additional data was taken recording the city, state and country of each occurance as well as the shape, duration (time) of each sighting along with any additional comments. 
